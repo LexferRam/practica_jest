@@ -14,8 +14,8 @@ describe("Checking names", () => {
   beforeEach(() => nameCheck());
 
   test("User is jeff", () => {
-    const user = "jeff";
-    expect(user).toBe("jeff");
+    const user = "jefff";
+    expect(user).toBe("jefff");
   });
 
   test("User is jeff", () => {
